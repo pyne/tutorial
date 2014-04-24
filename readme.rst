@@ -1,3 +1,6 @@
+THIS REPO IS DEPRECATED AND HAS BEEN MOVED INTO THE MAIN PYNE REPO
+******************************************************************
+
 tutorial
 ========
 
